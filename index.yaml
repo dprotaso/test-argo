@@ -3,12 +3,22 @@ entries:
   knative-serving:
   - apiVersion: v2
     appVersion: 1.19.0
-    created: "2025-10-02T20:07:15.159131-04:00"
+    created: "2025-10-02T20:24:50.394914-04:00"
     description: A Helm chart to install Knative Serving v1.19 with Kourier ingress
-    digest: b112553a28c60317ac8e835e148151858c2039a6aba3d14bdc0b0ceeb0b83581
+    digest: c7b102a113d7dba8639ed5ebc0a1759842645fe7109d5b91524840fdd9211aa7
     name: knative-serving
     type: application
     urls:
     - https://dprotaso.github.io/test-argo/knative-serving-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-02T20:07:15.156631-04:00"
+  - apiVersion: v2
+    appVersion: 1.19.0
+    created: "2025-10-02T20:24:50.399706-04:00"
+    description: A Helm chart to install Knative Serving v1.19 with Kourier ingress
+    digest: c7b102a113d7dba8639ed5ebc0a1759842645fe7109d5b91524840fdd9211aa7
+    name: knative-serving
+    type: application
+    urls:
+    - https://dprotaso.github.io/test-argo/test-argo/knative-serving-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-02T20:24:50.389256-04:00"
